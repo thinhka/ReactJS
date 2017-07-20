@@ -1,0 +1,18 @@
+.todo{
+    width: 300px;
+}
+.todo-task{
+    width: 298px;
+    height: 25px;
+}
+.delete-btn{
+    float:right;
+    margin-top: 5px;
+}
+.todo-item{
+    line-height: 30px;
+    border-bottom: 1px solid;
+}
+.complete-task{
+    color:#a09e9e;
+}
